@@ -10,10 +10,10 @@ const commitment: Commitment = "confirmed";
 const connection = new Connection("https://api.devnet.solana.com", commitment);
 
 // Mint address
-const mint = new PublicKey("72toh3RJsEX3XrgzYrBUasE894Bv5nXn9g4pyk6xLsH5");
+const mint = new PublicKey("GmJ8SdFGqoCmoHgwN5cHB8E7Wv2m98NnhC7vy8UrvKka");
 
 // Recipient address
-const to = new PublicKey("9yq8BgSG7XahLBKivhTiHKbrhXfHTA8Yk4xixgyg8yyd");
+const to = new PublicKey("HFZW2yX2v5LCF4wf6rBoRFznARRuiSWbFcAi8veXVpme");
 
 (async () => {
     try {
@@ -40,7 +40,7 @@ const to = new PublicKey("9yq8BgSG7XahLBKivhTiHKbrhXfHTA8Yk4xixgyg8yyd");
             fromTokenAccount.address,
             toTokenAccount.address,
             keypair.publicKey,
-            1n * 1_000_000n //send 1XGE token
+            1n //send 1EXR NFT
         );
 
         console.log('Success! Transaction signature: ${tx}');
