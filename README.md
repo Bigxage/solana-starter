@@ -10,9 +10,9 @@ Wallet Address: AQN99WXhgKyZyh5Xk31odRLhHKu5WqMKCug2z2cqUuLD
 2.  Transfer Transaction: GmJ8SdFGqoCmoHgwN5cHB8E7Wv2m98NnhC7vy8UrvKka
 
 ## Reflection
-At the beginning of the assignment, i didn't know what to do at all. i have never come across the task of minting an nft. i will go through the assignments materials, then as on today's office hours how to get started with the assignment. 
+At the beginning of the assignment, i didn't know what to do at all. i have never come across the task of minting an nft. i will go through the assignments materials, then as on today's office hours, i will ask how to get started with the assignment. 
 
-Later on into the assignment, after watching the two video resource material where berg explained all about metaplex and the students are asked to shared their screen and practice their code. I was able to figure out hoe to sort the nft mint assignment.
+Later on into the assignment, after watching the two video resource material (shared by andreia to my mail) where berg explained all about metaplex and the students are asked to shared their screen and practice their code. I was able to figure out how to sort the nft mint assignment.
 
 Although, personally, i did not encounter this issue but it is a possibility if the student you send your nft to does not send his own back to you.
 Issue: Trading NFTs via simple transfer is risky because it requires blind trust. If I send my NFT first, the counterparty might not fulfill their end of the deal.
