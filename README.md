@@ -1,6 +1,8 @@
 ## Assignment Details
 NFT Name: Engineer Xage Rug
+
 Mint Address: GmJ8SdFGqoCmoHgwN5cHB8E7Wv2m98NnhC7vy8UrvKka
+
 Wallet Address: AQN99WXhgKyZyh5Xk31odRLhHKu5WqMKCug2z2cqUuLD
 
 ## Transaction Proofs
